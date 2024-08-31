@@ -13,3 +13,14 @@ Adding more rounds.
 Displaying score.
 Giving points based on the number of attempts.
 Provide me code in Java using swing
+
+TASK - 4
+Online Examination:
+
+The project should be capable of the following functionalities:
+
+Login
+Update Profile and Password
+Selecting answers for MCQs
+Timer and auto submit
+Closing session and Logout
